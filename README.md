@@ -4,3 +4,5 @@ I am **Physicist with deep expertise in biomedical signal processing, Python pro
 
 I have **contributed open-source software** to fix bugs in mne-python (PRs [#10656](https://github.com/mne-tools/mne-python/pull/10656), [#11245](https://github.com/mne-tools/mne-python/pull/11245), [#11502](https://github.com/mne-tools/mne-python/pull/11502), [#11640](https://github.com/mne-tools/mne-python/pull/11640)), to add functionality to mne-bids ([PR #1103](https://github.com/mne-tools/mne-bids/pull/1103)), and I have provided my signal analysis methodology expertise to enhance YASA ([PR #42](https://github.com/raphaelvallat/yasa/pull/42)).
 
+
+### ➡️ Click here for my [Resume](https://github.com/user-attachments/files/21164365/Moritz.Gerster_MedTech.pdf)

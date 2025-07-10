@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-I am **Physicist with deep expertise in biomedical signal processing, Python programming, and computational modeling.** My first-author publications span computational neuroscience, experimental neurology, and time-series analysis methodology.
+I'm a **physicist** with expertise in **biomedical signal processing**, **Python programming**, and **computational modeling**, focused on real-world health data and neurotechnology applications. 
 
-I have **contributed open-source software** to fix bugs in mne-python (PRs [#10656](https://github.com/mne-tools/mne-python/pull/10656), [#11245](https://github.com/mne-tools/mne-python/pull/11245), [#11502](https://github.com/mne-tools/mne-python/pull/11502), [#11640](https://github.com/mne-tools/mne-python/pull/11640)), to add functionality to mne-bids (PR [#1103](https://github.com/mne-tools/mne-bids/pull/1103)), and I have provided my signal analysis methodology expertise to enhance YASA (PR [#42](https://github.com/raphaelvallat/yasa/pull/42)).
+I’ve published first-author papers in **computational neuroscience**, **clinical neurophysiology**, and **signal analysis methodology** ([340+ citations](https://scholar.google.com/citations?user=YPwIsMYAAAAJ&hl=en)).
 
+I've contributed to **open-source neuroscience tools**, including bug fixes and feature enhancements for `mne-python` ([#10656](https://github.com/mne-tools/mne-python/pull/10656), [#11245](https://github.com/mne-tools/mne-python/pull/11245), [#11502](https://github.com/mne-tools/mne-python/pull/11502), [#11640](https://github.com/mne-tools/mne-python/pull/11640)), extended `mne-bids` ([#1103](https://github.com/mne-tools/mne-bids/pull/1103)), and provided signal analysis methodology expertise to enhance `yasa` ([#42](https://github.com/raphaelvallat/yasa/pull/42)).
 
-### ➡️ Click here for my [Resume](https://github.com/user-attachments/files/21164365/Moritz.Gerster_MedTech.pdf)
+**Tech Focus**: Python · NumPy · SciPy · MNE · scikit-learn · Signal Processing · Spectral Analysis · ML
+
+### 📄 [View My Resume (PDF)](https://github.com/user-attachments/files/21164365/Moritz.Gerster_MedTech.pdf)

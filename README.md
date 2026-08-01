@@ -4,7 +4,7 @@ I'm a **physicist** with expertise in **biomedical signal processing**, **Python
 
 I’ve published first-author papers in **computational neuroscience**, **signal processing**, **clinical neurophysiology**, and **NeuroAI** ([500+ first-author citations](https://scholar.google.com/citations?user=YPwIsMYAAAAJ&hl=en)).
 
-I've contributed to **open-source neuroscience tools**, including bug fixes and feature enhancements for `mne-python` ([#10656](https://github.com/mne-tools/mne-python/pull/10656), [#11245](https://github.com/mne-tools/mne-python/pull/11245), [#11502](https://github.com/mne-tools/mne-python/pull/11502), [#11640](https://github.com/mne-tools/mne-python/pull/11640)), extended `mne-bids` ([#1103](https://github.com/mne-tools/mne-bids/pull/1103)), and provided signal analysis methodology expertise to enhance `yasa` ([#42](https://github.com/raphaelvallat/yasa/pull/42)).
+I've contributed to **open-source neuroscience tools**, including bug fixes and feature enhancements for `MNE-Python` ([#10656](https://github.com/mne-tools/mne-python/pull/10656), [#11245](https://github.com/mne-tools/mne-python/pull/11245), [#11502](https://github.com/mne-tools/mne-python/pull/11502), [#11640](https://github.com/mne-tools/mne-python/pull/11640)), extended `MNE-BIDS` ([#1103](https://github.com/mne-tools/mne-bids/pull/1103)), and provided signal analysis methodology expertise to enhance `YASA` ([#42](https://github.com/raphaelvallat/yasa/pull/42)).
 
 **Tech Focus**: Python · NumPy · SciPy · MNE-python · scikit-learn · PyTorch
 
